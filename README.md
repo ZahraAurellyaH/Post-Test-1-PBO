@@ -1,5 +1,10 @@
 # Post-Test-1-PBO
 
+
+Nama: Zahra Aurellya Herdiansyah
+Nim: 2409116062
+
+
 *PENJELASAN KODE*
 
 <img width="390" height="27" alt="image" src="https://github.com/user-attachments/assets/1c697d74-ceb7-4fc4-9b68-7525f7aebe34" />
